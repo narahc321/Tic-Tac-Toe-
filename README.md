@@ -1,4 +1,3 @@
 # Tic-Tac-Toe
 
-TIC TAC TOE 
 OOM SEMESTER PROJECT
